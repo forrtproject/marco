@@ -1,0 +1,31 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Love Replications Week"
+  page-footer:
+    right: "Built with [Quarto](https://quarto.org/)."
+    left: ""
+
+format:
+  html:
+    theme: lux
+    linkcolor: "#AF0078"
+    toc: false
+    css:
+    - styles.css
+    - include/webex.css
+    include-after-body:
+    - include/webex.js
+    linestretch: 1.75
+    page-layout: article
+
+editor: source
+include-in-header:
+  - text: |
+      <link rel = "shortcut icon" href = "assets/forrt_icon.png" />
+  - text: |
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css">
+
+

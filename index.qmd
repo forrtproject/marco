@@ -1,0 +1,65 @@
+---
+title: ""
+about:
+  id: lrw
+  template: marquee
+  image: images/logo_mrc.png
+---
+
+# *Making Replications Count*
+
+*A UKRI-funded project to increase the visiblity of replication attempts.*
+
+![](images/bar.png){fig-align="center"}
+
+## WHAT IS THE PROJECT GOAL?
+
+![](images/bar.png){fig-align="center"}
+
+## UPCOMING EVENTS
+
+Registrations are now open for our spring hackathon: <https://indico.uni-muenster.de/e/marco2>
+
+![](images/hackathon_spring.jpg)
+
+![](images/bar.png){fig-align="center"}
+
+## SUB-PROJECTS
+
+-   Bibliometric Study
+
+-   Preprint Notifications
+
+-   Zotero Plug-In
+
+-   Browser Extension
+
+-   Mixed-Methods Study
+
+![](images/bar.png){fig-align="center"}
+
+## WHO ARE WE?
+
+![](people/wallrich.jpeg){width="100"}
+
+![](people/röseler.png){width="100"}
+
+![](people/weinerova.png){width="100"}
+
+![](people/behbood.jpg){width="100"}
+
+![](images/bar.png){fig-align="center"}
+
+## 
+
+::: logo-stack
+## Institutions
+
+## ![](logos/birkbeck_logo.png){width="150"}
+
+[![](logos/logo_mücos.png){width="150"}](https://www.uni-muenster.de/MueCOS/en/index.html)
+
+![](logos/Logo_Universität_Münster.svg.png){width="150"}
+
+[![](logos/logo_forrt.png){width="150"}](https://forrt.org)
+:::
