@@ -14,27 +14,37 @@ about:
 
 ## WHAT IS THE PROJECT GOAL?
 
+Replications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed.
+
 ![](images/bar.png){fig-align="center"}
 
 ## UPCOMING EVENTS
 
 Registrations are now open for our spring hackathon: <https://indico.uni-muenster.de/e/marco2>
 
-![](images/hackathon_spring.jpg)
+![](images/hackathon_spring.jpg){width="800"}
 
 ![](images/bar.png){fig-align="center"}
 
-## SUB-PROJECTS
+## PROJECTS
 
--   Bibliometric Study
+### Studies
 
--   Preprint Notifications
+-   **Bibliometric Study**: How do failed replications affect the reception of the original studies?
 
--   Zotero Plug-In
+-   **Preprint Notifications**: Can notifications about replications increase co-citation of replications along the original studies?
 
--   Browser Extension
+-   **Mixed-Methods Study**: How do researchers decide which studies to read and cite?
 
--   Mixed-Methods Study
+### **Tools**
+
+-   **Zotero Plug-In**: Automatically add replications to your Zotero library based on the original studies that you have and link them.
+
+    ![](images/clipboard-2940188058.png)
+
+-   **Browser Extension**: Get notified about replications while browsing.
+
+-   **Replication Citation Dashboard**: Explore citation patterns of replications.
 
 ![](images/bar.png){fig-align="center"}
 
@@ -42,11 +52,27 @@ Registrations are now open for our spring hackathon: <https://indico.uni-muenste
 
 ![](people/wallrich.jpeg){width="100"}
 
+**Lukas Wallrich — Principle Investigator**
+
 ![](people/röseler.png){width="100"}
+
+**Lukas (Luke) Röseler — Co-Investigator**
 
 ![](people/weinerova.png){width="100"}
 
+**Josefina Weinerova — Postdoctoral Researcher**
+
+![](people/vaz.jpg){width="100"}
+
+**Keegan Vaz — Research Assistant**
+
 ![](people/behbood.jpg){width="100"}
+
+**Hamidreza Behbood — Research Assistant**
+
+![](people/tondlekar.jpg){width="100"}
+
+**Rohan Tondlekar — Research Assistant**
 
 ![](images/bar.png){fig-align="center"}
 
