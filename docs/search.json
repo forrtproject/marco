@@ -14,32 +14,11 @@
     "text": "A UKRI-funded project to increase the visiblity of replication attempts.\n\n\n\n\n\n\n\nReplications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed.\n\n\n\n\n\n\n\n\nRegistrations are now open for our spring hackathon: https://indico.uni-muenster.de/e/marco2\n\n\n\n\n\n\n\n\n\n\n\n\nBibliometric Study: How do failed replications affect the reception of the original studies?\nPreprint Notifications: Can notifications about replications increase co-citation of replications along the original studies?\nMixed-Methods Study: How do researchers decide which studies to read and cite?\n\n\n\n\n\nZotero Plug-In: Automatically add replications to your Zotero library based on the original studies that you have and link them.\n\nBrowser Extension: Get notified about replications while browsing.\nReplication Citation Dashboard: Explore citation patterns of replications.\n\n\n\n\n\n\n\n\n\n\n\nLukas Wallrich — Principle Investigator\n\nLukas (Luke) Röseler — Co-Investigator\n\nJosefina Weinerova — Postdoctoral Researcher\n\nKeegan Vaz — Research Assistant\n\nHamidreza Behbood — Research Assistant\n\nRohan Tondlekar — Research Assistant"
   },
   {
-    "objectID": "index.html#what-is-the-love-replications-week",
-    "href": "index.html#what-is-the-love-replications-week",
-    "title": "Love Replications Week — March 2-6",
-    "section": "",
-    "text": "In the Love Replications Week, you can learn how to do reproduction and replication studies yourself, submit your own local or virtual events, and show your love for replications — regardless of the type of research that you do!\n\n\nA central feature of research is that others should be able to repeat the procedure and arrive at the same conclusions. In practice, this can be a reproduction - repeating a test using the same data - or a replication - repeating a test with different data. Historically, these repetitions have been deemed important but rarely conducted, leading to problems of repeatability in many areas across the social sciences, digital humanities, linguistics, and natural sciences.\n\n\n\nRegister for the core program below. To submit your own events, please reach out to lukas.roeseler[at]uni-muenster[dot]de."
-  },
-  {
-    "objectID": "index.html#core-program-lunch-talks",
-    "href": "index.html#core-program-lunch-talks",
-    "title": "Love Replications Week — March 2-6",
-    "section": "",
-    "text": "Each day, there will be a 15 minutes online presentation on a specific topic, followed by 15 minutes for Q&A. To receive the Zoom link for these daily talks, please register here.\n\n\n\n\n\n\n\n\n\nDate\nPresenter\nName\nTopic\n\n\n\n\nMarch 2, 1:00 pm CET\n\nLenka Fiala\nReproducibility Study Speedrun\n\n\nMarch 3, 1:00 pm CET\n\nDaniel Nüst\nHow to get your reproducibility certificate with CODECHECK\n\n\nMarch 4, 1:00 pm CET\n\nLukas Wallrich\nHow to find a replication target\n\n\nMarch 5, 1:00 pm CET\n\nLukas Röseler\nGetting your replication report ready for submission\n\n\nMarch 6, 1:00 pm CET\n\nSusanne Adler\nCooperation with Students to Conduct Replication Studies"
-  },
-  {
-    "objectID": "index.html#full-program-with-abstracts",
-    "href": "index.html#full-program-with-abstracts",
-    "title": "Love Replications Week — March 2-6",
-    "section": "",
-    "text": "Reproducibility Study Speedrun by Lenka Fiala (1:00 - 1:30 pm CET, online), registration required\nTo investigate the transparency, correctness, and generalizability of a study, researcher can attempt to reproduce the results. Participants will be guided through an example reproduction study.\n\n\n\n\n\n\nHow to get your reproducibility certificate with CODECHECK by Daniel Nüst (1:00 - 1:30 pm CET, online), registration required\nCODECHECK *provides an approach for independent execution of computations underlying research articles. During the publication process, one reviewer - the codechecker - certifies that they was able to execute relevant parts of a computational workflow. This certificate becomes part of the public record.\n\n\n\n\n\n\nHow to find a replication target by Lukas Wallrich (1:00 - 1:30 pm CET, online), registration required\nMost published studies have not been subject to replication attempts yet and given limited resources for replication research, we need to priotize what to replicate (first). This walk will run participant through several criteria that can help researchers choosing what to replicate.\n\nReplication Journal Showcase by Thomas Evans, Etienne Roesch, Alexandra Sarafoglou, Marianne Saam, Lukas Röseler (4:00 - 5:00 pm CET, online), registration required\n*Learn about academic journals that have a strong focus on reproduction and replication studies. Members of the respective editorial boards will present Rescience C, Rescience X, the Journal of Comments and Replications in Economics, the Journal of Robustness Reports, the Journal of Open Psychology Data, and Replication Research.\n\n\n\n\n\n\nGetting your replication report ready for submission by Lukas Röseler (1:00 - 1:30 pm CET, online), registration required\nReports of reproduction or replication studies are fundamentally different from traditional articles in that there is always a predecessor or target study. To facilitate transparent and comprehensive reporting, participants will learn about manuscript templates and examples of best practices for reporting replications and reproductions.\n\n\n\n\n\nCooperation with students to conduct replication studies by Susanne Adler (1:00 - 1:30 pm CET, online), registration required\nReplication studies are a superb way to train (under-)graduate students in research methods. The thorough evaluation of the original study, the use of contemporary statistical methods, and practical applications of preregistration and data management provide students with a profound understanding of empirical research. The acquired skills do not just shape how future scientists and practitioners approach research, but the gathered evidence also contributes to strengthening a research field’s knowledge base. This talk outlines how state-of-the-art replication studies can be integrated into a seminar, what to look out for as a lecturer during these seminars, and describes an example study."
-  },
-  {
-    "objectID": "index.html#sub-projects",
-    "href": "index.html#sub-projects",
+    "objectID": "index.html#what-is-the-project-goal",
+    "href": "index.html#what-is-the-project-goal",
     "title": "Making Replications Count",
     "section": "",
-    "text": "Bibliometric Study\nPreprint Notifications\nZotero Plug-In\nBrowser Extension\nMixed-Methods Study"
+    "text": "Replications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed."
   },
   {
     "objectID": "index.html#upcoming-events",
@@ -49,24 +28,17 @@
     "text": "Registrations are now open for our spring hackathon: https://indico.uni-muenster.de/e/marco2"
   },
   {
-    "objectID": "index.html#who-are-we",
-    "href": "index.html#who-are-we",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Lukas Wallrich — Principle Investigator\n\nLukas (Luke) Röseler — Co-Investigator\n\nJosefina Weinerova — Postdoctoral Researcher\n\nKeegan Vaz — Research Assistant\n\nHamidreza Behbood — Research Assistant\n\nRohan Tondlekar — Research Assistant"
-  },
-  {
-    "objectID": "index.html#what-is-the-project-goal",
-    "href": "index.html#what-is-the-project-goal",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Replications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed."
-  },
-  {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
     "title": "Making Replications Count",
     "section": "",
     "text": "Bibliometric Study: How do failed replications affect the reception of the original studies?\nPreprint Notifications: Can notifications about replications increase co-citation of replications along the original studies?\nMixed-Methods Study: How do researchers decide which studies to read and cite?\n\n\n\n\n\nZotero Plug-In: Automatically add replications to your Zotero library based on the original studies that you have and link them.\n\nBrowser Extension: Get notified about replications while browsing.\nReplication Citation Dashboard: Explore citation patterns of replications."
+  },
+  {
+    "objectID": "index.html#who-are-we",
+    "href": "index.html#who-are-we",
+    "title": "Making Replications Count",
+    "section": "",
+    "text": "Lukas Wallrich — Principle Investigator\n\nLukas (Luke) Röseler — Co-Investigator\n\nJosefina Weinerova — Postdoctoral Researcher\n\nKeegan Vaz — Research Assistant\n\nHamidreza Behbood — Research Assistant\n\nRohan Tondlekar — Research Assistant"
   }
 ]

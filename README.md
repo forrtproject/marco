@@ -1,2 +1,1 @@
-# LoveReplicationsWeek
-Love Replications Week 2026
+This is the project website for the UKRI-funded project 'Making Replications Count'.
