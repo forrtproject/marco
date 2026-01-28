@@ -72,7 +72,9 @@ Open to anyone interested in making replications count — whether you bring cod
 
 ![**Lukas Wallrich**<br>Principal Investigator](people/wallrich.jpeg){height="150"}
 
-![**Lukas (Luke) Röseler**<br>Co-Investigator](people/röseler.png){height="150"}
+![**Lukas (Luke) Röseler**<br>Co-Principal Investigator](people/röseler.png){height="150"}
+
+![**Flávio Azevedo**<br>Co-Investigator](people/azevedo.webp){height="150"}
 
 ![**Josefina Weinerova**<br>Postdoctoral Researcher](people/weinerova.png){height="150"}
 
