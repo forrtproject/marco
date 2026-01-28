@@ -9,36 +9,50 @@
   {
     "objectID": "index.html",
     "href": "index.html",
-    "title": "Making Replications Count",
+    "title": "Love Replications Week",
     "section": "",
-    "text": "A UKRI-funded project to increase the visiblity of replication attempts.\n\n\n\n\n\n\n\nReplications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed.\n\n\n\n\n\n\n\n\nRegistrations are now open for our spring hackathon: https://indico.uni-muenster.de/e/marco2\n\n\n\n\n\n\n\n\n\n\n\n\nBibliometric Study: How do failed replications affect the reception of the original studies?\nPreprint Notifications: Can notifications about replications increase co-citation of replications along the original studies?\nMixed-Methods Study: How do researchers decide which studies to read and cite?\n\n\n\n\n\nZotero Plug-In: Automatically add replications to your Zotero library based on the original studies that you have and link them.\n\nBrowser Extension: Get notified about replications while browsing.\nReplication Citation Dashboard: Explore citation patterns of replications.\n\n\n\n\n\n\n\n\n\n\n\nLukas Wallrich — Principle Investigator\n\nLukas (Luke) Röseler — Co-Investigator\n\nJosefina Weinerova — Postdoctoral Researcher\n\nKeegan Vaz — Research Assistant\n\nHamidreza Behbood — Research Assistant\n\nRohan Tondlekar — Research Assistant"
+    "text": "MAKING REPLICATIONS COUNT\nA UKRI-funded project to increase the visiblity of replication attempts."
   },
   {
     "objectID": "index.html#what-is-the-project-goal",
     "href": "index.html#what-is-the-project-goal",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Replications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed."
+    "title": "Love Replications Week",
+    "section": "WHAT IS THE PROJECT GOAL?",
+    "text": "WHAT IS THE PROJECT GOAL?\nReplications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed."
   },
   {
     "objectID": "index.html#upcoming-events",
     "href": "index.html#upcoming-events",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Registrations are now open for our spring hackathon: https://indico.uni-muenster.de/e/marco2"
+    "title": "Love Replications Week",
+    "section": "UPCOMING EVENTS",
+    "text": "UPCOMING EVENTS\n\n\n\n\n\n\nSpring Hackathon — May 4-6, 2026 in Münster, Germany\n\nJoin us to develop tools that increase the visibility of replication studies! Teams will work on automated data extraction, browser plug-ins, and interactive dashboards.\n\nOpen to anyone interested in making replications count — whether you bring coding skills, domain expertise, or fresh ideas. Travel grants available.\n\nRegistration deadline: March 16th\nRegister now"
   },
   {
     "objectID": "index.html#projects",
     "href": "index.html#projects",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Bibliometric Study: How do failed replications affect the reception of the original studies?\nPreprint Notifications: Can notifications about replications increase co-citation of replications along the original studies?\nMixed-Methods Study: How do researchers decide which studies to read and cite?\n\n\n\n\n\nZotero Plug-In: Automatically add replications to your Zotero library based on the original studies that you have and link them.\n\nBrowser Extension: Get notified about replications while browsing.\nReplication Citation Dashboard: Explore citation patterns of replications."
+    "title": "Love Replications Week",
+    "section": "PROJECTS",
+    "text": "PROJECTS\n\nStudies\n\nBibliometric Study: How do failed replications affect the reception of the original studies?\nPreprint Notifications: Can notifications about replications increase co-citation of replications along the original studies?\nMixed-Methods Study: How do researchers decide which studies to read and cite?\n\n\n\nTools\n\nZotero Plug-In: Automatically add replications to your Zotero library based on the original studies that you have and link them.\n\nBrowser Extension: Get notified about replications while browsing.\nReplication Citation Dashboard: Explore citation patterns of replications."
   },
   {
     "objectID": "index.html#who-are-we",
     "href": "index.html#who-are-we",
-    "title": "Making Replications Count",
-    "section": "",
-    "text": "Lukas Wallrich — Principle Investigator\n\nLukas (Luke) Röseler — Co-Investigator\n\nJosefina Weinerova — Postdoctoral Researcher\n\nKeegan Vaz — Research Assistant\n\nHamidreza Behbood — Research Assistant\n\nRohan Tondlekar — Research Assistant"
+    "title": "Love Replications Week",
+    "section": "WHO ARE WE?",
+    "text": "WHO ARE WE?\n\n\n\n\n\n\nLukas WallrichPrincipal Investigator\n\n\n\n\n\n\n\nLukas (Luke) RöselerCo-Investigator\n\n\n\n\n\n\n\nJosefina WeinerovaPostdoctoral Researcher\n\n\n\n\n\n\n\n\n\nKeegan VazResearch Assistant\n\n\n\n\n\n\n\nHamidreza BehboodResearch Assistant\n\n\n\n\n\n\n\nRohan TondlekarResearch Assistant\n\n\n\n\n\n\nAdvisory Board\n\n\n\n\n\n\nYanina Bellini SaibenerOpenSci, R-Ladies\n\n\n\n\n\n\n\nProf Stefan FeuerriegelLMU Munich\n\n\n\n\n\n\n\nProf Lisa DeBruineUniversity of Glasgow\n\n\n\n\n\n\n\n\n\nProf Julie GoreBirkbeck, University of London\n\n\n\n\n\n\n\nDr Crystal SteltenpohlCenter for Open Science\n\n\n\n\n\n\n\nDr Madeleine PownallUniversity of Leeds"
+  },
+  {
+    "objectID": "index.html#institutions",
+    "href": "index.html#institutions",
+    "title": "Love Replications Week",
+    "section": "Institutions",
+    "text": "Institutions"
+  },
+  {
+    "objectID": "index.html#funder",
+    "href": "index.html#funder",
+    "title": "Love Replications Week",
+    "section": "Funder",
+    "text": "Funder"
   }
 ]

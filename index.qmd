@@ -1,12 +1,10 @@
 ---
 title: ""
-about:
-  id: lrw
-  template: marquee
-  image: images/logo_mrc.png
 ---
 
-# *Making Replications Count*
+::: {.title-banner style="background-color: #7B4B94; padding: 0.5rem 2rem; text-align: center; margin-bottom: 1rem;"}
+[MAKING REPLICATIONS]{style="color: white; font-size: 2.5rem; font-weight: bold; letter-spacing: 0.05em;"} [COUNT]{style="color: black; font-size: 2.5rem; font-weight: bold; letter-spacing: 0.05em;"}
+:::
 
 *A UKRI-funded project to increase the visiblity of replication attempts.*
 
@@ -20,9 +18,29 @@ Replications are the foundation of a healthy science. With our projects, we try 
 
 ## UPCOMING EVENTS
 
-Registrations are now open for our spring hackathon: <https://indico.uni-muenster.de/e/marco2>
+::: {layout-ncol=2}
 
-![](images/hackathon_spring.jpg){width="800"}
+![](images/hackathon_spring.jpg)
+
+::: {}
+**Spring Hackathon — May 4-6, 2026 in Münster, Germany**
+
+<br>
+
+Join us to develop tools that increase the visibility of replication studies! Teams will work on automated data extraction, browser plug-ins, and interactive dashboards.
+
+<br>
+
+Open to anyone interested in making replications count — whether you bring coding skills, domain expertise, or fresh ideas. Travel grants available.
+
+<br>
+
+**Registration deadline: March 16th**
+
+[Register now](https://indico.uni-muenster.de/e/marco2){.btn .btn-primary}
+:::
+
+:::
 
 ![](images/bar.png){fig-align="center"}
 
@@ -50,42 +68,62 @@ Registrations are now open for our spring hackathon: <https://indico.uni-muenste
 
 ## WHO ARE WE?
 
-![](people/wallrich.jpeg){width="100"}
+::: {layout-ncol=3}
 
-**Lukas Wallrich — Principle Investigator**
+![**Lukas Wallrich**<br>Principal Investigator](people/wallrich.jpeg){height="150"}
 
-![](people/röseler.png){width="100"}
+![**Lukas (Luke) Röseler**<br>Co-Investigator](people/röseler.png){height="150"}
 
-**Lukas (Luke) Röseler — Co-Investigator**
+![**Josefina Weinerova**<br>Postdoctoral Researcher](people/weinerova.png){height="150"}
 
-![](people/weinerova.png){width="100"}
+![**Keegan Vaz**<br>Research Assistant](people/vaz.jpg){height="150"}
 
-**Josefina Weinerova — Postdoctoral Researcher**
+![**Hamidreza Behbood**<br>Research Assistant](people/behbood.jpg){height="150"}
 
-![](people/vaz.jpg){width="100"}
+![**Rohan Tondlekar**<br>Research Assistant](people/tondlekar.jpg){height="150"}
 
-**Keegan Vaz — Research Assistant**
+:::
 
-![](people/behbood.jpg){width="100"}
+### Advisory Board
 
-**Hamidreza Behbood — Research Assistant**
+::: {layout-ncol=3}
 
-![](people/tondlekar.jpg){width="100"}
+![**Yanina Bellini Saibene**<br>rOpenSci, R-Ladies](images/advisory_board/yanina_bellini_saibene.jpg){height="150"}
 
-**Rohan Tondlekar — Research Assistant**
+![**Prof Stefan Feuerriegel**<br>LMU Munich](images/advisory_board/stefan_feuerriegel.jpg){height="150"}
+
+![**Prof Lisa DeBruine**<br>University of Glasgow](images/advisory_board/lisa_debruine.jpg){height="150"}
+
+![**Prof Julie Gore**<br>Birkbeck, University of London](images/advisory_board/julie_gore.webp){height="150"}
+
+![**Dr Crystal Steltenpohl**<br>Center for Open Science](images/advisory_board/crystal_steltenpohl.png){height="150"}
+
+![**Dr Madeleine Pownall**<br>University of Leeds](images/advisory_board/madeleine_pownall.jpg){height="150"}
+
+:::
 
 ![](images/bar.png){fig-align="center"}
 
 ## 
 
-::: logo-stack
+::: {layout-ncol=2}
+
+::: {}
 ## Institutions
 
-## ![](logos/birkbeck_logo.png){width="150"}
+![](logos/birkbeck_logo.png){height="60"}
 
-[![](logos/logo_mücos.png){width="150"}](https://www.uni-muenster.de/MueCOS/en/index.html)
+[![](logos/logo_mücos.png){height="60"}](https://www.uni-muenster.de/MueCOS/en/index.html)
 
-![](logos/Logo_Universität_Münster.svg.png){width="150"}
+![](logos/Logo_Universität_Münster.svg.png){height="60"}
 
-[![](logos/logo_forrt.png){width="150"}](https://forrt.org)
+[![](logos/logo_forrt.png){height="60"}](https://forrt.org)
+:::
+
+::: {}
+## Funder
+
+[![](logos/ukri_logo.png){height="80"}](https://www.ukri.org/)
+:::
+
 :::
