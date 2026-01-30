@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Love Replications Week"
+  title: "Making Replications Count"
   page-footer:
     right: "Built with [Quarto](https://quarto.org/)."
     left: ""
