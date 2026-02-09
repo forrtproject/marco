@@ -18,11 +18,11 @@ Replications are the foundation of a healthy science. With our projects, we try 
 
 ## UPCOMING EVENTS
 
-::: {layout-ncol=2}
-
+:::: {layout-ncol="2"}
 ![](images/hackathon_spring.jpg)
 
-::: {}
+<div>
+
 **Spring Hackathon — May 4-6, 2026 in Münster, Germany**
 
 <br>
@@ -38,9 +38,9 @@ Open to anyone interested in making replications count — whether you bring cod
 **Registration deadline: March 16th**
 
 [Register now](https://indico.uni-muenster.de/e/marco2){.btn .btn-primary}
-:::
 
-:::
+</div>
+::::
 
 ![](images/bar.png){fig-align="center"}
 
@@ -50,7 +50,7 @@ Open to anyone interested in making replications count — whether you bring cod
 
 -   **Bibliometric Study**: How do failed replications affect the reception of the original studies?
 
--   **Preprint Notifications**: Can notifications about replications increase co-citation of replications along the original studies?
+-   **Preprint Notifications**: Are notifications about replications helpful for researchers?
 
 -   **Mixed-Methods Study**: How do researchers decide which studies to read and cite?
 
@@ -68,8 +68,7 @@ Open to anyone interested in making replications count — whether you bring cod
 
 ## WHO ARE WE?
 
-::: {layout-ncol=3}
-
+::: {layout-ncol="3"}
 ![**Lukas Wallrich**<br>Principal Investigator](people/wallrich.jpeg){height="150"}
 
 ![**Lukas (Luke) Röseler**<br>Co-Principal Investigator](people/röseler.png){height="150"}
@@ -83,13 +82,11 @@ Open to anyone interested in making replications count — whether you bring cod
 ![**Hamidreza Behbood**<br>Research Assistant](people/behbood.jpg){height="150"}
 
 ![**Rohan Tondlekar**<br>Research Assistant](people/tondlekar.jpg){height="150"}
-
 :::
 
 ### Advisory Board
 
-::: {layout-ncol=3}
-
+::: {layout-ncol="3"}
 ![**Yanina Bellini Saibene**<br>rOpenSci, R-Ladies](images/advisory_board/yanina_bellini_saibene.jpg){height="150"}
 
 ![**Prof Stefan Feuerriegel**<br>LMU Munich](images/advisory_board/stefan_feuerriegel.jpg){height="150"}
@@ -101,16 +98,15 @@ Open to anyone interested in making replications count — whether you bring cod
 ![**Dr Crystal Steltenpohl**<br>Center for Open Science](images/advisory_board/crystal_steltenpohl.png){height="150"}
 
 ![**Dr Madeleine Pownall**<br>University of Leeds](images/advisory_board/madeleine_pownall.jpg){height="150"}
-
 :::
 
 ![](images/bar.png){fig-align="center"}
 
 ## 
 
-::: {layout-ncol=2}
+::::: {layout-ncol="2"}
+<div>
 
-::: {}
 ## Institutions
 
 ![](logos/birkbeck_logo.png){height="60"}
@@ -120,12 +116,14 @@ Open to anyone interested in making replications count — whether you bring cod
 ![](logos/Logo_Universität_Münster.svg.png){height="60"}
 
 [![](logos/logo_forrt.png){height="60"}](https://forrt.org)
-:::
 
-::: {}
+</div>
+
+<div>
+
 ## Funder
 
 [![](logos/ukri_logo.png){height="80"}](https://www.ukri.org/)
-:::
 
-:::
+</div>
+:::::
