@@ -1,5 +1,5 @@
 ---
-title: "Privacy Notice for the Replication Preprint Bot Study"
+title: "Privacy Notice for the Replication Preprint Notifications Study"
 ---
 
 ## Who Collects Data?
@@ -10,7 +10,7 @@ Birkbeck College (Birkbeck, University of London) serves as the data controller.
 
 - Address: Birkbeck College, Malet St, Bloomsbury, London, WC1E 7HX
 - Data Protection Officer: [dpo@bbk.ac.uk](mailto:dpo@bbk.ac.uk)
-- Data inquiries: [L.wallrich@bbk.ac.uk](mailto:L.wallrich@bbk.ac.uk)
+- Data inquiries: [l.wallrich@bbk.ac.uk](mailto:l.wallrich@bbk.ac.uk)
 
 ## Purpose of Data Collection
 
