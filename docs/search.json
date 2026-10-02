@@ -39,56 +39,35 @@
     "href": "index.html",
     "title": "Making Replications Count",
     "section": "",
-    "text": "MAKING REPLICATIONS COUNT\nA UKRI-funded project to increase the visibility of replication attempts."
-  },
-  {
-    "objectID": "index.html#what-is-the-project-goal",
-    "href": "index.html#what-is-the-project-goal",
-    "title": "Making Replications Count",
-    "section": "WHAT IS THE PROJECT GOAL?",
-    "text": "WHAT IS THE PROJECT GOAL?\nReplications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which they go unnoticed."
-  },
-  {
-    "objectID": "index.html#hackathons",
-    "href": "index.html#hackathons",
-    "title": "Making Replications Count",
-    "section": "HACKATHONS",
-    "text": "HACKATHONS\nWe run hackathons at the Münster Center for Open Science, where researchers and developers build tools on FLoRA, the FORRT Library of Replication Attempts.\nFall Hackathon: 11–13 November 2026, Münster. Event page Project ideas\n\n\n\n\n\n\nSpring Hackathon, 4–6 May 2026, Münster (event page). Photo: MüCOS.\n\n\n\n\n\n\n\nAutumn Hackathon, 22–24 October 2025, Münster (event page).\n\n\n\n\n\nRead more about the hackathons and the tools built there in Did you know this study was replicated? on the Research on Research Institute blog."
-  },
-  {
-    "objectID": "index.html#studies",
-    "href": "index.html#studies",
-    "title": "Making Replications Count",
-    "section": "STUDIES",
-    "text": "STUDIES\n\nBibliometric Study: How do failed replications affect the reception of the original studies?\nPreregistration: (When) Do Replications Influence the Impact of Original Claims? A Bibliometric Investigation.\nPreprint Notifications (FLoRA Notify): Are notifications about replications helpful for researchers?\nRegistered protocol: FLoRA-Notify: A Protocol for a Cluster-Randomised Controlled Trial to Assess the Impact of Notifying Preprint Authors About Replication Studies · Code · Privacy notice\nMixed-Methods Study: How do researchers decide which studies to read and cite?\nPreregistration of the qualitative study: When Replication Meets Practice: A qualitative study of how researchers search for, integrate and anticipate pushback on replication evidence.\nWikipedia audit: How often do Wikipedia articles that cite an original study also cite its replications?\nThe Replication Gap: suggested edits for Wikipedia articles that miss replication evidence.\n\nOverview paper: Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences (MetaArXiv preprint)."
+    "text": "MAKING REPLICATIONS COUNT"
   },
   {
     "objectID": "index.html#tools",
     "href": "index.html#tools",
     "title": "Making Replications Count",
-    "section": "TOOLS",
-    "text": "TOOLS\nAll tools draw on FLoRA, FORRT’s open database of replication and reproduction attempts.\n\nReplication Atlas\nCheck whether a study has been replicated. Search by DOI, title or author, or paste a whole reference list to check every cited study at once.\n\nOpen the Replication Atlas\n\n\nReplication Checker for Zotero\nScan your Zotero library for studies with known replications. The plug-in tags affected items, adds notes with the replication outcomes and can add the replications to your library. Matching uses hash prefixes, so your library contents stay on your machine.\n\nAbout the plug-in Download\n\n\nFORRT ORE — Open Research Extension\nA browser extension for Chrome and Edge. On article pages and in search results (e.g., Google Scholar, PubMed, OpenAlex) it shows replications, retractions, PubPeer discussions and open-access versions next to each paper.\n\n\n\n\n\n\nOn an article page\n\n\n\n\n\n\n\nIn Google Scholar results\n\n\n\n\n\nAbout the extension\n\n\nFLoRA Explorer\nExplore the whole database: replication outcomes by year and discipline, and citation patterns of original studies after they were replicated.\n\nOpen the FLoRA Explorer"
+    "section": "Tools",
+    "text": "Tools\nAll tools draw on FLoRA, FORRT’s open database of replication and reproduction attempts.\n\n\n\n\nReplication Atlas\nCheck whether a study has been replicated. Search by DOI, title or author, or paste a whole reference list to check every cited study at once.\nOpen the Atlas\n\n\n\n\n\nBrowser extension: FORRT ORE\nFor Chrome and Edge. On article pages and in search results (e.g., Google Scholar, PubMed, OpenAlex) it shows replications, retractions, PubPeer discussions and open-access versions next to each paper.\nAdd to Chrome Docs\n\n\n\n\n\nReplication Checker for Zotero\nScan your Zotero library for studies with known replications. The plug-in tags affected items, adds notes with the outcomes and can add the replications to your library. Your library contents stay on your machine.\nDownload Docs\n\n\n\n\n\nFLoRA Explorer\nExplore the whole database: replication outcomes by year and discipline, and citation patterns of original studies after they were replicated.\nOpen the Explorer"
   },
   {
-    "objectID": "index.html#who-are-we",
-    "href": "index.html#who-are-we",
+    "objectID": "index.html#studies",
+    "href": "index.html#studies",
     "title": "Making Replications Count",
-    "section": "WHO ARE WE?",
-    "text": "WHO ARE WE?\n\n\n\n\n\n\nLukas WallrichPrincipal Investigator\n\n\n\n\n\n\n\nLukas (Luke) RöselerCo-Principal Investigator\n\n\n\n\n\n\n\nFlávio AzevedoCo-Investigator\n\n\n\n\n\n\n\n\n\nJosefina WeinerovaPostdoctoral Researcher\n\n\n\n\n\n\n\nKeegan VazResearch Assistant\n\n\n\n\n\n\n\nHamidreza BehboodResearch Assistant\n\n\n\n\n\n\n\n\n\nRohan TondlekarResearch Assistant\n\n\n\n\n\n\nAdvisory Board\n\n\n\n\n\n\nYanina Bellini SaibenerOpenSci, R-Ladies\n\n\n\n\n\n\n\nProf Stefan FeuerriegelLMU Munich\n\n\n\n\n\n\n\nProf Lisa DeBruineUniversity of Glasgow\n\n\n\n\n\n\n\n\n\nProf Julie GoreBirkbeck, University of London\n\n\n\n\n\n\n\nDr Crystal SteltenpohlCenter for Open Science\n\n\n\n\n\n\n\nDr Madeleine PownallUniversity of Leeds"
+    "section": "Studies",
+    "text": "Studies\n\n\nBibliometric study\nHow do failed replications affect the reception of the original studies?\nPreregistration (When) Do Replications Influence the Impact of Original Claims? A Bibliometric Investigation\n\n\nPreprint notifications (FLoRA Notify)\nAre notifications about replications helpful for researchers?\nRegistered protocol FLoRA-Notify: A Protocol for a Cluster-Randomised Controlled Trial to Assess the Impact of Notifying Preprint Authors About Replication Studies\nCode · Privacy notice\n\n\nMixed-methods study\nHow do researchers decide which studies to read and cite?\nPreregistration When Replication Meets Practice: A qualitative study of how researchers search for, integrate and anticipate pushback on replication evidence (qualitative part)\n\n\nOverview paper: Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences (MetaArXiv preprint)."
   },
   {
-    "objectID": "index.html#institutions",
-    "href": "index.html#institutions",
+    "objectID": "index.html#who-we-are",
+    "href": "index.html#who-we-are",
     "title": "Making Replications Count",
-    "section": "Institutions",
-    "text": "Institutions"
+    "section": "Who we are",
+    "text": "Who we are\n\n  Lukas WallrichPrincipal Investigator\n  Lukas (Luke) RöselerCo-Principal Investigator\n  Flávio AzevedoCo-Investigator\n  Josefina WeinerovaPostdoctoral Researcher\n  Keegan VazResearch Assistant\n  Hamidreza BehboodResearch Assistant\n  Rohan TondlekarResearch Assistant\n\n\nAdvisory board\n\n  Yanina Bellini SaibenerOpenSci, R-Ladies\n  Prof Stefan FeuerriegelLMU Munich\n  Prof Lisa DeBruineUniversity of Glasgow\n  Prof Julie GoreBirkbeck, University of London\n  Dr Crystal SteltenpohlCenter for Open Science\n  Dr Madeleine PownallUniversity of Leeds\n\n\n\nHackathons\nWe run hackathons at the Münster Center for Open Science, where researchers and developers build tools on FLoRA. Read more in Did you know this study was replicated? on the Research on Research Institute blog.\n\nNext: Fall Hackathon, 11–13 November 2026, Münster\nEvent page Project ideas\n\n\n\n\n\n\n\nSpring Hackathon, 4–6 May 2026, Münster (event page). Photo: MüCOS.\n\n\n\n\n\n\n\nAutumn Hackathon, 22–24 October 2025, Münster (event page)."
   },
   {
-    "objectID": "index.html#funder",
-    "href": "index.html#funder",
+    "objectID": "index.html#partners",
+    "href": "index.html#partners",
     "title": "Making Replications Count",
-    "section": "Funder",
-    "text": "Funder"
+    "section": "Partners",
+    "text": "Partners\n\n  \n  \n  \n  \n\nFunded by"
   },
   {
     "objectID": "LICENSE.html",

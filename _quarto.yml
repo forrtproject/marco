@@ -18,7 +18,7 @@ format:
     - include/webex.css
     include-after-body:
     - include/webex.js
-    linestretch: 1.75
+    linestretch: 1.6
     page-layout: article
 
 editor: source
