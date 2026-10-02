@@ -1,129 +1,148 @@
 ---
 title: ""
+pagetitle: "Making Replications Count"
 ---
 
-::: {.title-banner style="background-color: #7B4B94; padding: 0.5rem 2rem; text-align: center; margin-bottom: 1rem;"}
-[MAKING REPLICATIONS]{style="color: white; font-size: 2.5rem; font-weight: bold; letter-spacing: 0.05em;"} [COUNT]{style="color: black; font-size: 2.5rem; font-weight: bold; letter-spacing: 0.05em;"}
+::: hero
+[MAKING REPLICATIONS]{.hero-white} [COUNT]{.hero-black}
 :::
 
-*A UKRI-funded project to increase the visiblity of replication attempts.*
+::: lead
+Replications are the foundation of a healthy science, but they often go unnoticed. *Making Replications Count* is a UKRI-funded project that builds tools to make replication attempts visible where researchers search, read and cite, and studies when and why replications are overlooked.
+:::
 
-![](images/bar.png){fig-align="center"}
+## Tools
 
-## WHAT IS THE PROJECT GOAL?
+All tools draw on [FLoRA](https://forrt.org/replication-hub/flora/), FORRT's open database of replication and reproduction attempts.
 
-Replications are the foundation of a healthy science. With our projects, we try to increase the visibility of replications and investigate the conditions under which conditions they go unnoticed.
+:::::: tool-grid
+::::: tool-card
+[![](images/tools/atlas_result.png){fig-alt="Replication Atlas showing three replications of a power-posing study"}](https://forrt.org/flora-replication-atlas/)
 
-![](images/bar.png){fig-align="center"}
+### Replication Atlas
 
-## UPCOMING EVENTS
+Check whether a study has been replicated. Search by DOI, title or author, or paste a whole reference list to check every cited study at once.
 
-:::: {layout-ncol="2"}
-![](images/hackathon_spring.jpg)
+[Open the Atlas](https://forrt.org/flora-replication-atlas/){.btn .btn-primary}
+:::::
 
-<div>
+::::: tool-card
+![](images/tools/extension_scholar.png){.fit-contain .lightbox fig-alt="Google Scholar result with an ORE panel listing open access, PubPeer and replications"}
 
-**Spring Hackathon — May 4-6, 2026 in Münster, Germany**
+### Browser extension: FORRT ORE
 
-<br>
+For Chrome and Edge. On article pages and in search results (e.g., Google Scholar, PubMed, OpenAlex) it shows replications, retractions, PubPeer discussions and open-access versions next to each paper.
 
-Join us to develop tools that increase the visibility of replication studies! Teams will work on automated data extraction, browser plug-ins, and interactive dashboards.
+[Add to Chrome](https://chromewebstore.google.com/detail/kdbmghoddafabpjdnjhocollhjefcnco){.btn .btn-primary} [Docs](https://forrt.org/chromium-extension/){.btn .btn-outline-primary}
+:::::
 
-<br>
+::::: tool-card
+![](images/tools/zotero_card.png){.fit-contain .lightbox fig-alt="Zotero library with a study selected; the item pane shows the tags 'Has Replication', 'Replication: Failure' and 'Replication: Mixed', a 'Replications Found' note and two related replication studies"}
 
-Open to anyone interested in making replications count — whether you bring coding skills, domain expertise, or fresh ideas. Travel grants available.
+### Replication Checker for Zotero
 
-<br>
+Scan your Zotero library for studies with known replications. The plug-in tags affected items, adds notes with the outcomes and can add the replications to your library. Your library contents stay on your machine.
 
-**Registration deadline: March 16th**
+[Download](https://github.com/forrtproject/flora-zotero/releases/latest){.btn .btn-primary} [Docs](https://forrt.org/flora-zotero/){.btn .btn-outline-primary}
+:::::
 
-[Register now](https://indico.uni-muenster.de/e/marco2){.btn .btn-primary}
+::::: tool-card
+[![](images/tools/explorer_overview.png){fig-alt="FLoRA Explorer overview with counts of replications and reproductions"}](https://forrt.org/flora-explorer/)
 
+### FLoRA Explorer
+
+Explore the whole database: replication outcomes by year and discipline, and citation patterns of original studies after they were replicated.
+
+[Open the Explorer](https://forrt.org/flora-explorer/){.btn .btn-primary}
+:::::
+::::::
+
+## Studies
+
+::::: study-list
+::: study
+### Bibliometric study
+
+How do failed replications affect the reception of the original studies?
+
+[Preregistration](https://doi.org/10.17605/OSF.IO/WJGM3){.study-link} *(When) Do Replications Influence the Impact of Original Claims? A Bibliometric Investigation*
+:::
+
+::: study
+### Preprint notifications (FLoRA Notify)
+
+Are notifications about replications helpful for researchers?
+
+[Registered protocol](https://doi.org/10.31222/osf.io/qnckf_v1){.study-link} *FLoRA-Notify: A Protocol for a Cluster-Randomised Controlled Trial to Assess the Impact of Notifying Preprint Authors About Replication Studies*
+
+[Code](https://github.com/forrtproject/flora-preprint-notifier) · [Privacy notice](privacy.qmd)
+:::
+
+::: study
+### Mixed-methods study
+
+How do researchers decide which studies to read and cite?
+
+[Preregistration](https://doi.org/10.17605/OSF.IO/PEVZF){.study-link} *When Replication Meets Practice: A qualitative study of how researchers search for, integrate and anticipate pushback on replication evidence* (qualitative part)
+:::
+:::::
+
+**Overview paper:** [Tracking and mainstreaming replications in the social, cognitive, and behavioral sciences](https://doi.org/10.31222/osf.io/ad2w6_v5) (MetaArXiv preprint).
+
+## Who we are
+
+```{=html}
+<div class="people">
+  <figure><img src="people/wallrich.jpeg" alt=""><figcaption><strong>Lukas Wallrich</strong>Principal Investigator</figcaption></figure>
+  <figure><img src="people/röseler.png" alt=""><figcaption><strong>Lukas (Luke) Röseler</strong>Co-Principal Investigator</figcaption></figure>
+  <figure><img src="people/azevedo.webp" alt=""><figcaption><strong>Flávio Azevedo</strong>Co-Investigator</figcaption></figure>
+  <figure><img src="people/weinerova.png" alt=""><figcaption><strong>Josefina Weinerova</strong>Postdoctoral Researcher</figcaption></figure>
+  <figure><img src="people/vaz.jpg" alt=""><figcaption><strong>Keegan Vaz</strong>Research Assistant</figcaption></figure>
+  <figure><img src="people/behbood.jpg" alt=""><figcaption><strong>Hamidreza Behbood</strong>Research Assistant</figcaption></figure>
+  <figure><img src="people/tondlekar.jpg" alt=""><figcaption><strong>Rohan Tondlekar</strong>Research Assistant</figcaption></figure>
 </div>
+```
+
+### Advisory board
+
+```{=html}
+<div class="people">
+  <figure><img src="images/advisory_board/yanina_bellini_saibene.jpg" alt=""><figcaption><strong>Yanina Bellini Saibene</strong>rOpenSci, R-Ladies</figcaption></figure>
+  <figure><img src="images/advisory_board/stefan_feuerriegel.jpg" alt=""><figcaption><strong>Prof Stefan Feuerriegel</strong>LMU Munich</figcaption></figure>
+  <figure><img src="images/advisory_board/lisa_debruine.jpg" alt=""><figcaption><strong>Prof Lisa DeBruine</strong>University of Glasgow</figcaption></figure>
+  <figure><img src="images/advisory_board/julie_gore.webp" alt=""><figcaption><strong>Prof Julie Gore</strong>Birkbeck, University of London</figcaption></figure>
+  <figure><img src="images/advisory_board/crystal_steltenpohl.png" alt=""><figcaption><strong>Dr Crystal Steltenpohl</strong>Center for Open Science</figcaption></figure>
+  <figure><img src="images/advisory_board/madeleine_pownall.jpg" alt=""><figcaption><strong>Dr Madeleine Pownall</strong>University of Leeds</figcaption></figure>
+</div>
+```
+
+### Hackathons
+
+We run hackathons at the Münster Center for Open Science, where researchers and developers build tools on FLoRA. Read more in [*Did you know this study was replicated?*](https://researchonresearchinstitute.substack.com/p/did-you-know-this-study-was-replicated) on the Research on Research Institute blog.
+
+::: next-event
+**Next: Fall Hackathon, 11–13 November 2026, Münster**
+
+[Event page](https://indico.uni-muenster.de/event/4370/){.btn .btn-primary} [Project ideas](https://mrc-hackathon-projects.surge.sh/){.btn .btn-outline-primary}
+:::
+
+:::: {.hackathon-photos layout-ncol="2"}
+![Spring Hackathon, 4–6 May 2026, Münster ([event page](https://indico.uni-muenster.de/event/3877/)). Photo: MüCOS.](images/hackathon/spring2026_group_photo.jpg)
+
+![Autumn Hackathon, 22–24 October 2025, Münster ([event page](https://indico.uni-muenster.de/event/3626/)).](images/hackathon/autumn2025_group_photo.jpg)
 ::::
 
-![](images/bar.png){fig-align="center"}
+## Partners
 
-## PROJECTS
-
-### Studies
-
--   **Bibliometric Study**: How do failed replications affect the reception of the original studies?
-
--   **Preprint Notifications**: Are notifications about replications helpful for researchers?
-
--   **Mixed-Methods Study**: How do researchers decide which studies to read and cite?
-
-### **Tools**
-
--   **Zotero Plug-In**: Automatically add replications to your Zotero library based on the original studies that you have and link them.
-
-    ![](images/clipboard-2940188058.png)
-
--   **Browser Extension**: Get notified about replications while browsing.
-
--   **Replication Citation Dashboard**: Explore citation patterns of replications.
-
-![](images/bar.png){fig-align="center"}
-
-## WHO ARE WE?
-
-::: {layout-ncol="3"}
-![**Lukas Wallrich**<br>Principal Investigator](people/wallrich.jpeg){height="150"}
-
-![**Lukas (Luke) Röseler**<br>Co-Principal Investigator](people/röseler.png){height="150"}
-
-![**Flávio Azevedo**<br>Co-Investigator](people/azevedo.webp){height="150"}
-
-![**Josefina Weinerova**<br>Postdoctoral Researcher](people/weinerova.png){height="150"}
-
-![**Keegan Vaz**<br>Research Assistant](people/vaz.jpg){height="150"}
-
-![**Hamidreza Behbood**<br>Research Assistant](people/behbood.jpg){height="150"}
-
-![**Rohan Tondlekar**<br>Research Assistant](people/tondlekar.jpg){height="150"}
-:::
-
-### Advisory Board
-
-::: {layout-ncol="3"}
-![**Yanina Bellini Saibene**<br>rOpenSci, R-Ladies](images/advisory_board/yanina_bellini_saibene.jpg){height="150"}
-
-![**Prof Stefan Feuerriegel**<br>LMU Munich](images/advisory_board/stefan_feuerriegel.jpg){height="150"}
-
-![**Prof Lisa DeBruine**<br>University of Glasgow](images/advisory_board/lisa_debruine.jpg){height="150"}
-
-![**Prof Julie Gore**<br>Birkbeck, University of London](images/advisory_board/julie_gore.webp){height="150"}
-
-![**Dr Crystal Steltenpohl**<br>Center for Open Science](images/advisory_board/crystal_steltenpohl.png){height="150"}
-
-![**Dr Madeleine Pownall**<br>University of Leeds](images/advisory_board/madeleine_pownall.jpg){height="150"}
-:::
-
-![](images/bar.png){fig-align="center"}
-
-## 
-
-::::: {layout-ncol="2"}
-<div>
-
-## Institutions
-
-![](logos/birkbeck_logo.png){height="60"}
-
-[![](logos/logo_mücos.png){height="60"}](https://www.uni-muenster.de/MueCOS/en/index.html)
-
-![](logos/Logo_Universität_Münster.svg.png){height="60"}
-
-[![](logos/logo_forrt.png){height="60"}](https://forrt.org)
-
+```{=html}
+<div class="logos">
+  <a href="https://www.bbk.ac.uk/"><img src="logos/birkbeck_logo.png" alt="Birkbeck, University of London"></a>
+  <a href="https://www.uni-muenster.de/"><img src="logos/Logo_Universität_Münster.svg.png" alt="University of Münster"></a>
+  <a href="https://www.uni-muenster.de/MueCOS/en/index.html"><img src="logos/logo_mücos.png" alt="Münster Center for Open Science"></a>
+  <a href="https://forrt.org"><img src="logos/logo_forrt.png" alt="FORRT"></a>
 </div>
-
-<div>
-
-## Funder
-
-[![](logos/ukri_logo.png){height="80"}](https://www.ukri.org/)
-
+<p class="funder-label">Funded by</p>
+<div class="logos">
+  <a href="https://www.ukri.org/"><img src="logos/ukri_logo.png" alt="UK Research and Innovation" class="funder"></a>
 </div>
-:::::
+```
