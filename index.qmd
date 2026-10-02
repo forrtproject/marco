@@ -27,7 +27,7 @@ Check whether a study has been replicated. Search by DOI, title or author, or pa
 :::::
 
 ::::: tool-card
-![](images/tools/extension_scholar.png){fig-alt="Google Scholar result with an ORE panel listing open access, PubPeer and replications"}
+![](images/tools/extension_scholar.png){.fit-contain fig-alt="Google Scholar result with an ORE panel listing open access, PubPeer and replications"}
 
 ### Browser extension: FORRT ORE
 

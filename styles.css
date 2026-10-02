@@ -215,3 +215,8 @@ main > section > h3, .level3 > h3 { margin-top: 2.5rem; }
 .hackathon-photos figcaption { font-size: 0.82rem; }
 
 .tool-card .quarto-figure, .tool-card figure, .tool-card p:first-child { margin-bottom: 0; }
+.tool-card img.fit-contain {
+  object-fit: contain;
+  object-position: center;
+  background: #fff;
+}
