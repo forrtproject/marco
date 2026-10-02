@@ -37,7 +37,7 @@ For Chrome and Edge. On article pages and in search results (e.g., Google Schola
 :::::
 
 ::::: tool-card
-![](images/tools/zotero_tags.png){fig-alt="Zotero item tagged 'Has Replication' and 'Replication: Successful'"}
+![](images/tools/zotero_card.png){.fit-contain .dark-bg fig-alt="Zotero item tagged 'Has Replication' and 'Replication: Successful'"}
 
 ### Replication Checker for Zotero
 
